@@ -1,4 +1,5 @@
 🎯 Projede neler öğrendim?
+
 -SOLID prensiplerini kod yapısına entegre etmeyi
 
 -Katmanlı mimari ile iş, veri ve sunum katmanlarını ayırmayı
